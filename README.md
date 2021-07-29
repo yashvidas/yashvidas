@@ -1,4 +1,4 @@
-<h1> Hi, I'm Yashvi Das! <h1>
+<h1> Hi, I'm Yashvi Das! </h1>
 
 I'm a Digital Marketer, UX/UI Designer and Frontend Web Development Enthusiast and I'm also looking to contribute in open source projects. I'm Currently in Senior year of my Engineering with Major in Information Technology from Usha Mittal Institute of Technology.
 
