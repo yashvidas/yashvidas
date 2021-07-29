@@ -1,8 +1,6 @@
-### Hi there 👋
+<h1> Hi, I'm Yashvi Das <h1>
 
-<!--
-**yashvidas/yashvidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I'm a Digital Marketer, UX/UI Designer and Frontend Web Development Enthusiast and I'm also looking to contribute in open source projects. Some Technologies, Softwares I enjoy working are HTML, CSS, Javascript, React,etc. I recently launched my portfolio website- <a href "https://yashvidas.github.io/portfolio'> Yashvi's Portfolio</a> as a project.   
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
