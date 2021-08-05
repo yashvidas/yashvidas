@@ -16,7 +16,7 @@ I'm a Digital Marketer, UX/UI Designer and Frontend Web Development Enthusiast a
 🌱 I’m currently learning more about <b>App Development , Graphic Design</b>.<br>
 👯 I’m looking to collaborate on <b>Content Writing , UX/UI Designing</b>.<br>
 🤔 I’m looking for help with <b>Open Source Development</b>.<br>
-💬 Ask me about <b>Frontend Web Development , UX/UI Designing , Digital Marketer</b>. <br>
+💬 Ask me about <b>Frontend Web Development , UX/UI Designing , Digital Marketing </b>. <br>
 😄 Pronouns: Her
   
   
